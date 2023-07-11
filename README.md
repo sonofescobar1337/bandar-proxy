@@ -1,5 +1,5 @@
 # bandar-proxy
-Last update (01:02:30)
+Last update (01:08:35)
 
 # Raw Proxy
 http
